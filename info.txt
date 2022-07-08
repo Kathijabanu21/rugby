@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test edit
 second line restore
+=======
+test by kathija
+>>>>>>> 53937bddf371087249b8113433f934162150d5b2
